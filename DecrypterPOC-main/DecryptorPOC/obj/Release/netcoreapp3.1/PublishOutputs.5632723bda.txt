@@ -1,0 +1,5 @@
+C:\Safe folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\publish\Decrypter.exe
+C:\Safe folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\publish\Decrypter.dll
+C:\Safe folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\publish\Decrypter.deps.json
+C:\Safe folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\publish\Decrypter.runtimeconfig.json
+C:\Safe folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\publish\Decrypter.pdb
