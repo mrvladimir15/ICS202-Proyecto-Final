@@ -3,6 +3,7 @@
 1098139 - Vladimir Antonio González Dotel
 -----
 ## Disclaimer
+
 Este proyecto ha sido desarrollado exclusivamente con propósitos educativos, como requisito de la asignatura ICS202 - Algoritmos Maliciosos, cursada en el Instituto Tecnológico de Santo Domingo (INTEC) en el trimestre Mayo - Julio 2022. El uso indebido de esta herramienta puede afectar negativamente en los recursos de un ordenador; se recomienda ejecutarlo en un entorno controlado (como una máquina virtual). El autor del repositorio (Vladimir González) se desliga de los usos malintencionados de esta solución.
 -----
 ## Descripción
